@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Shimano Claris Groupset",
+        "image": "1.png",
+        "description": "Durable and low maintenance quality 8-speed drivetrain gives you the optimal range of gears for on-road cycling. ",
+        "price": 12229
+    },
+    {
+        "name": "Shimano Sora Groupset",
+        "image": "2.png",
+        "description": "The new SORA is most attractive and robust 9-speed component ever. SORA is pitched towards sports/fitness cyclists with stylish and clean design.",
+        "price": 15000
+    },
+    {
+        "name": "Shimano Tiagra Groupset",
+        "image": "3.png",
+        "description": "New 10-speed TIAGRA provides serious entry-level riding performance with cascaded technology from top-tier lines.",
+        "price": 18500
+    },
+    {
+        "name": "Shimano 105 Groupset",
+        "image": "4.png",
+        "description": "SHIMANO 105 is a mid-range road component groupset that inherits competition-grade technologies and designs to offer a truly unique balance of impressive performance, reliability, and affordability.",
+        "price": 39980
+    },
+    {
+        "name": "Shimano Ultegra Groupset",
+        "image": "5.png",
+        "description": "Race your friends, laugh, enjoy nature, stop for coffee…  Shimano ULTEGRA’s trusted quality lets you leave time behind.",
+        "price": 43000
+    },
+    {
+        "name": "Shimano Dura-Ace Di2 Groupset",
+        "image": "6.png",
+        "description": "The pinnacle of Shimano road technology and innovation, the new 12-speed R9200 DURA-ACE is our fastest, most inspired drivetrains ever.",
+        "price": 100000
+    },
+    {
+        "name": "Shimano 105 Di2 Groupset",
+        "image": "7.png",
+        "description": "For those who have only experienced mechanical shifting and ergonomics, SHIMANO 105 Di2 represents a transformation of the road cycling experience.",
+        "price": 65000
+    },
+    {
+        "name": "Shimano Ultegra Di2 Groupset",
+        "image": "8.png",
+        "description": "Shimano’s latest Ultegra Di2 groupset fulfils the potential of electronic shifting and brings class-leading braking, too",
+        "price": 63000
+    },
+    {
+        "name": "Shimano Deore 10s Groupset",
+        "image": "9.png",
+        "description": "ew SHIMANO DEORE brings even more adventure to your outdoor lifestyle with a wider range of gear choices for the steep stuff, the fast stuff and the fun.",
+        "price": 7789
+    },
+    {
+        "name": "Shimano SLX Groupset",
+        "image": "10.png",
+        "description": "SLX is ready to go wherever and whenever you want, whether it’s an all-day epic, the local cross country race, or a post-work ride with your buddies. It won’t let you down.",
+        "price": 25000
+    },
+    {
+        "name": "Shimano Deore XT 12s Groupset",
+        "image": "11.png",
+        "description": "SHIMANO DEORE XT is the original mountain bike groupset trusted by generations of mountain bikers around the world. Whatever the trail, whatever you ride, XT is your solution for mountain biking today.",
+        "price": 14000
+    },
+    {
+        "name": "Shimano Deore 11s Groupset",
+        "image": "12.png",
+        "description": "Ride your way with SHIMANO DEORE. Heighten your mountain biking confidence and control with smooth riding, improved chain stability, and sharp shifting on the trail.",
+        "price": 17488
+    }
+]
